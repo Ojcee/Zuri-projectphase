@@ -284,8 +284,6 @@ article {
   .footer-about {
     max-width: 76%;
   }
-}
-
 
 
 button {
@@ -296,6 +294,7 @@ button {
   color: var(--white-col);
   box-shadow: var(--boxShadow);
 }
+
 button:focus{
   outline: none;
 
